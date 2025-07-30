@@ -1,0 +1,217 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Oleo+Script:wght@400;700&display=swap'); */
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+/* body{
+    background-image: url('/images/bg-2mRdDf.webp');
+} */
+
+
+
+
+.main-container1{
+    /* border:2px solid red; */
+    height:70vh;
+    /* width:100vw; */
+    /* position: relative; */
+    /* right:20px; */
+    /* align-items: center; */
+    background-image: url(/images/contact-us-bg-Nd2yUr.png);
+    background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        object-fit: cover;
+        filter: contrast(50%);
+   
+    
+    
+   
+}
+.menu-container{
+    /* border:2px solid blue; */
+    /* position:absolute; */
+     top:0px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   position: sticky;
+    top:0px
+   
+   /* width:75%; */
+   /* background-color: rgb(8, 4, 4); */
+   /* padding:10px */
+    
+}
+.menu-items{
+    /* border:2px solid green; */
+    padding:15px;
+    padding-top: 30px;
+    /* margin-bottom: 10px; */
+    color:white;
+    
+    /* object-fit: cover; */
+    
+}
+/* .main-container1 .menu-container .menu-items img{
+    width:100%;
+    height:100%
+} */
+.menu-items a{
+    text-decoration: none;
+    color:white;
+    padding-left: 15px;
+}
+.menu-items a:hover{
+    color:#d27843
+}
+.menu-items button{
+    /* padding-top: 20px; */
+    width:250px;
+    height:40px;
+    border-radius: 5px;
+    background-color:#d27843 ;
+    color:white;
+    margin-left:0px;
+}
+.menu-items button:hover{
+    background-color:#474646 ;
+    color:white
+}
+.coffee-contnt{
+    /* border:2px solid blue; */
+    /* display: flex;
+    flex-direction: column; */
+    /* justify-content: center; */
+    /* width:400px; */
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 40px;
+    /* margin-top: 200px;
+    margin-left: 500px; */
+   
+    /* text-align: center; */
+}
+.coffee-contnt h2{
+    color: aliceblue;
+    /* font-size: 70px; */
+    
+}
+.main-container2{
+    /* border:2px solid red; */
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:40px
+    
+    
+}
+.container2-items{
+    /* border:2px solid blue; */
+    display: flex;
+    line-height: 10px;
+    /* height:600px;
+    width:600px;
+    /* text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; */
+    
+}
+/* .container2-items img{
+    width:100%;
+    height:100%;
+    
+}*/
+.text-items{
+     /* border:2px solid green; */
+    padding-top:30px;
+    width:300px;
+    line-height: 40px;
+    font-size: 20px;
+    
+}
+/* .mrgn-rght{
+    margin-right: 20px;
+} */
+.align-items{
+    margin-right: 30px;
+}
+/* .align-items p{
+    font-family: "Dancing Script", cursive;
+} */
+.bgclr{
+    background-color: #e2e2e2ad;
+    padding:10px;
+    width:400px
+}
+/* .button{
+    width:300px
+    /* margin-bottom: 45px;
+    margin-right: 200px; *
+}
+/*.text-items button{
+    border: 2px 2px;
+    border-bottom-color:#d27843;
+    color:#d27843;
+    width:150px;
+    height:50px
+}
+.image{
+    width:100px;
+    height:100px;
+    
+} */
+
+
+
+.location{
+    text-align: center;
+}
+.main-container12{
+    /* border:2px solid red; */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+    background-color: #402218;
+    /* margin:20px; */
+    padding:70px;
+    margin-top: 20px;
+}
+.container12-items{
+    border-bottom-style:solid;
+    border-width: 2px;
+    border-bottom-color: white;
+    /* width:800px; */
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40px;
+    padding:20px
+    
+}
+.container12-items ul li{
+    list-style-type: none;
+}
+/* .container12-text{
+  border:2px solid green 
+} */
+div a{
+    text-decoration: none;
+    line-height: 40px;
+    color:white;
+}
+.container12-text h3{
+    line-height: 40px;
+    color:white;
+}
+.footer{
+    padding-top:30px;
+    color:white;
+    text-align: center;
+}
+
+
