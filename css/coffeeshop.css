@@ -20,7 +20,7 @@
     /* position: relative; */
     /* right:20px; */
     /* align-items: center; */
-    background-image: url('/images/bg-2mRdDf.webp');
+    background-image: url('/coffeeShop/images/bg-2mRdDf.webp');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -268,7 +268,8 @@
     animation-duration: 5s;
     animation-timing-function: ease-in-out;
 
-}@keyframes toptobottom{
+}
+@keyframes toptobottom{
     0%{
         transform:translateY(-100px);
         opacity:0;
@@ -404,9 +405,9 @@
     background-color: #402218;
 
 }
-.container11-items{
-    /* border:2px solid blue */
-}
+/* .container11-items{
+    border:2px solid blue
+} */
 .con11{
     width:200px;
     height:100px;
